@@ -1,6 +1,6 @@
 .banner {
   background: url('./Images/banner-cit.jpg') center/cover;
-  padding: 300px;
+  padding: 300px 0px;
 }
 .nav-link:hover {
   color: red !important;
